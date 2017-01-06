@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace DotHabitTracking.Web
+namespace DotHabit.Web
 {
     public class Program
     {
